@@ -166,7 +166,7 @@
                 </div>
                 <span><strong>Starting form ₹80.00 only</strong></span>
                 <div class="cart">
-                    <a href="Chowmein.php" class="btn">Have a look</a>
+                    <a href="chowmein.php" class="btn">Have a look</a>
                 </div>
             </div>
         </div>

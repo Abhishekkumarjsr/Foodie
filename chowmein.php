@@ -52,7 +52,7 @@
         <h1 class="heading">Our Popular Momos Dishes </h1>
         <div class="box-container">
             <div class="box">
-                <img src="img/2.jpgS" alt="">
+                <img src="img/2.jpg" alt="">
                 <div class="content">
                     <a href="#" class="fas fa-heart"></a>
                     <a href="#" class="fas fa-eye"></a>

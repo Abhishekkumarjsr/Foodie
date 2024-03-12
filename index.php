@@ -151,6 +151,26 @@
                 </div>
             </div>
         </div>
+        <div class="box-container">
+            <div class="box">
+                <img src="img/2.jpg" alt="">
+                <div class="content">
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fas fa-eye"></a>
+                    <h3>Chowmein</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                </div>
+                <span><strong>Starting form ₹75.00 only</strong></span>
+                <div class="cart">
+                    <a href="Chowmein.php" class="btn">Have a look</a>
+                </div>
+            </div>
     </section>
     <!-- dishes section ends -->
 

@@ -48,8 +48,8 @@
 
     <!-- Momos section starts -->
     <section class="dishes" id="dishes">
-        <h3 class="sub-heading"> Momos </h3>
-        <h1 class="heading">Our Popular Momos Dishes </h1>
+        <h3 class="dishes-page-sub-heading"> Chowmein </h3>
+        <h1 class="heading">Our Popular Chowmein Dishes </h1>
         <div class="box-container">
             <div class="box">
                 <img src="img/2.jpg" alt="">

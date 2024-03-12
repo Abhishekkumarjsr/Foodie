@@ -48,7 +48,7 @@
 
     <!-- Momos section starts -->
     <section class="dishes" id="dishes">
-        <h3 class="sub-heading"> Momos </h3>
+        <h3 class="dishes-page-sub-heading"> Momos </h3>
         <h1 class="heading">Our Popular Momos Dishes </h1>
         <div class="box-container">
             <div class="box">

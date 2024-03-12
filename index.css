@@ -122,7 +122,7 @@ header {
     cursor: default;
 }
 
-.navbar .symbols .menu {
+.navbar .symbols #menu-bar {
     display: none;
 }
 

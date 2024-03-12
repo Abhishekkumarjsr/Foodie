@@ -77,6 +77,26 @@
                     <a href="#" class="fas fa-heart"></a>
                     <a href="#" class="fas fa-eye"></a>
                     <h3>Chowmein</h3>
+                    <p>Egg Chow Mein</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+                <span><strong>₹80.00 only</strong></span>
+                <div class="cart">
+                    <a href="#" class="btn">add to cart</a>
+                </div>
+            </div>
+            <div class="box">
+                <img src="img/2.jpg" alt="">
+                <div class="content">
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fas fa-eye"></a>
+                    <h3>Chowmein</h3>
                     <p>Chicken Chow Mein</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
@@ -267,6 +287,86 @@
                     </div>
                 </div>
                 <span><strong>₹75.00 only</strong></span>
+                <div class="cart">
+                    <a href="#" class="btn">add to cart</a>
+                </div>
+            </div>
+            <div class="box">
+                <img src="img/2.jpg" alt="">
+                <div class="content">
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fas fa-eye"></a>
+                    <h3>Chowmein</h3>
+                    <p>Black Bean Chow Mein</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+                <span><strong>₹80.00 only</strong></span>
+                <div class="cart">
+                    <a href="#" class="btn">add to cart</a>
+                </div>
+            </div>
+            <div class="box">
+                <img src="img/2.jpg" alt="">
+                <div class="content">
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fas fa-eye"></a>
+                    <h3>Chowmein</h3>
+                    <p>Soy Sauce Chow Mein</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+                <span><strong>₹80.00 only</strong></span>
+                <div class="cart">
+                    <a href="#" class="btn">add to cart</a>
+                </div>
+            </div>
+            <div class="box">
+                <img src="img/2.jpg" alt="">
+                <div class="content">
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fas fa-eye"></a>
+                    <h3>Chowmein</h3>
+                    <p>Hot & Sour Chow Mein</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+                <span><strong>₹80.00 only</strong></span>
+                <div class="cart">
+                    <a href="#" class="btn">add to cart</a>
+                </div>
+            </div>
+            <div class="box">
+                <img src="img/2.jpg" alt="">
+                <div class="content">
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fas fa-eye"></a>
+                    <h3>Chowmein</h3>
+                    <p>Teriyaki Chow Mein</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+                <span><strong>₹80.00 only</strong></span>
                 <div class="cart">
                     <a href="#" class="btn">add to cart</a>
                 </div>

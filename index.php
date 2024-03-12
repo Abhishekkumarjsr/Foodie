@@ -150,8 +150,6 @@
                     <a href="momos.php" class="btn">Have a look</a>
                 </div>
             </div>
-        </div>
-        <div class="box-container">
             <div class="box">
                 <img src="img/2.jpg" alt="">
                 <div class="content">
@@ -171,6 +169,7 @@
                     <a href="Chowmein.php" class="btn">Have a look</a>
                 </div>
             </div>
+        </div>
     </section>
     <!-- dishes section ends -->
 

@@ -166,7 +166,7 @@
                         <i class="fas fa-star"></i>
                     </div>
                 </div>
-                <span><strong>Starting form ₹75.00 only</strong></span>
+                <span><strong>Starting form ₹80.00 only</strong></span>
                 <div class="cart">
                     <a href="Chowmein.php" class="btn">Have a look</a>
                 </div>
